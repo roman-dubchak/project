@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 two
+=======
+clear
+>>>>>>> c55c29e... clear
